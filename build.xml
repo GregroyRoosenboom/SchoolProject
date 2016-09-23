@@ -1,4 +1,3 @@
-
 <?xml version="1.0"?>   
 <project name="SchoolProject" default="test" basedir=".">
   <property name="main.build.dir" value="build/main" />  
