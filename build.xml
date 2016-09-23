@@ -3,7 +3,7 @@
   <property name="main.build.dir" value="build/main" />  
   <property name="main.src.dir" value="Project/src" />
   <property name="test.build.dir" value="build/test" />
-  <property name="test.src.dir" value="test" />
+  <property name="test.src.dir" value="Project/test" />
 
   <path id="classpath.base" />
 
