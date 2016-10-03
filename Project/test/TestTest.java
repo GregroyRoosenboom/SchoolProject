@@ -1,6 +1,4 @@
-import org.junit.*;
-
-import static org.junit.Assert.assertEquals;
+import static junit.framework.TestCase.assertEquals;
 
 /**
  * Created by surfacepro2 on 22/09/2016.

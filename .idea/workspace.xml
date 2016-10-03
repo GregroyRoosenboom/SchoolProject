@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad4eb75e-aeb7-43f5-b0a7-f91e0d591461" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project/Project.iml" afterPath="$PROJECT_DIR$/Project/Project.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SchoolProject.iml" afterPath="$PROJECT_DIR$/SchoolProject.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project/test/TestTest.java" afterPath="$PROJECT_DIR$/Project/test/TestTest.java" />
     </list>
     <ignored path="SchoolProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,11 +26,9 @@
       <file leaf-file-name="TestTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project/test/TestTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -567,11 +563,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/test/TestTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
