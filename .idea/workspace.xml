@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad4eb75e-aeb7-43f5-b0a7-f91e0d591461" name="Default" comment="added cucumber">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/info_cukes_cucumber_java8_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project/features/Classifieds/CreateClassified.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project/features/FirstFeatureTest.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project/features/StepDefinitions/ClassifiedSteps.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project/features/StepDefinitions/MyStepdefs.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Project/Test.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Project/src/Test.java" afterPath="$PROJECT_DIR$/Project/src/FirstPackage/SomeTestClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/Project/TestTest.class" afterPath="$PROJECT_DIR$/out/test/Project/TestTest.class" />
+    <list default="true" id="ad4eb75e-aeb7-43f5-b0a7-f91e0d591461" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project/Project.iml" afterPath="$PROJECT_DIR$/Project/Project.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Project/test/TestTest.java" afterPath="$PROJECT_DIR$/Project/test/TestTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.xml" afterPath="$PROJECT_DIR$/build.xml" />
     </list>
     <ignored path="SchoolProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -266,7 +254,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -857,7 +845,7 @@
       <option name="presentableId" value="Default" />
       <updated>1474560809719</updated>
       <workItem from="1475521977994" duration="1851000" />
-      <workItem from="1476722749980" duration="6717000" />
+      <workItem from="1476722749980" duration="7104000" />
     </task>
     <task id="LOCAL-00001" summary="changes to the project to make it a web project">
       <created>1476723488932</created>
@@ -866,7 +854,14 @@
       <option name="project" value="LOCAL" />
       <updated>1476723488933</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added cucumber">
+      <created>1476731439732</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1476731439732</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -902,7 +897,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8568000" />
+    <option name="totallyTimeSpent" value="8955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
